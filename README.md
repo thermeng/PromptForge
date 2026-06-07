@@ -72,7 +72,7 @@ pip install streamlit pyautogen python-dotenv autogen-ext[openai]
 ### 4. Create `.env` file
 ```
 OPENROUTER_API_KEY=your_api_key_here  
-OPENROUTER_BASE_URL=https://openrouter.ai/api/v1  
+OPENROUTER_BASE_URL="https://openrouter.ai/api/v1"  
 ```
 ---
 
